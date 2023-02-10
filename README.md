@@ -6,4 +6,3 @@ wget -O ss-rust.sh --no-check-certificate https://raw.githubusercontent.com/yeef
 
 bash <(curl -sL https://raw.githubusercontent.com/yeefaye/Shadowsocks/main/ss-libev.sh) 
 
-bash <(curl -sL https://storage.googleapis.com/tiziblog/ss.sh)
