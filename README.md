@@ -6,5 +6,5 @@ wget -O ss-rust.sh --no-check-certificate https://raw.githubusercontent.com/yeef
 
 bash <(curl -sL https://raw.githubusercontent.com/yeefaye/Shadowsocks/main/ss-libev.sh) 
 
-# Shadowsocks 一键安装管理脚本
+# Shadowsocks 一键安装管理脚本，引用自：https://github.com/ToyoDAdoubi
 wget -N --no-check-certificate https://raw.githubusercontent.com/yeefaye/Shadowsocks/main/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
